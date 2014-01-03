@@ -4,4 +4,4 @@ Small Java Raytracer based on Andrew Kensler business card raytracer (http://www
 
 == RESULT
 
-![alt tag](https://github.com/dluchian/Raytracer/blob/master/image.ppm?raw=true)
+![alt tag](https://github.com/dluchian/Raytracer/blob/master/image.png?raw=true)
